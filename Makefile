@@ -24,6 +24,4 @@ clean:
 	rm *.bbl *.blg 		#for bibtex
 
 clear:
-	rm *toc *aux *log 
-#	rm *gnuplot*  		#for gnuplottex
-	rm *.bbl *.blg 		#for bibtex
+	rm *.toc *.lot *.out *.aux *.log  *.backup  *.bbl *.bak *.blg *.xml *blx.bib *.bcf *.dvi
